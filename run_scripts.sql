@@ -1,3 +1,4 @@
-@'C:\dev\workspace\exercism\plsql\hello-world\hello_world#.plsql';
+@'C:\dev\workspace\exercism\plsql\gigasecond\gigasecond#.plsql';
 
-@'C:\dev\workspace\exercism\plsql\hello-world\ut_hello_world#.plsql';
+@'C:\dev\workspace\exercism\plsql\gigasecond\ut_gigasecond#.plsql';
+
