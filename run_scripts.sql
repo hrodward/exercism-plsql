@@ -1,4 +1,4 @@
-@'C:\dev\workspace\exercism\plsql\rna-transcription\complement#.plsql';
+@'C:\dev\workspace\exercism\plsql\roman-numerals\numeral.plsql';
 
-@'C:\dev\workspace\exercism\plsql\rna-transcription\ut_complement#.plsql';
+@'C:\dev\workspace\exercism\plsql\roman-numerals\ut_numeral#.plsql';
 
