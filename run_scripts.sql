@@ -1,4 +1,5 @@
-@'C:\dev\workspace\exercism\plsql\nth-prime\prime#.plsql';
+set SERVEROUTPUT ON;
 
-@'C:\dev\workspace\exercism\plsql\nth-prime\ut_prime#.plsql';
+@'C:\dev\workspace\exercism\plsql\leap\year#.plsql';
 
+@'C:\dev\workspace\exercism\plsql\leap\ut_leap#.plsql';
