@@ -1,5 +1,6 @@
 set SERVEROUTPUT ON;
 
-@'C:\dev\workspace\exercism\plsql\leap\year#.plsql';
+@'C:\dev\workspace\exercism\plsql\binary\binary.plsql';
 
-@'C:\dev\workspace\exercism\plsql\leap\ut_leap#.plsql';
+@'C:\dev\workspace\exercism\plsql\binary\ut_binary#.plsql';
+
